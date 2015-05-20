@@ -1,0 +1,16 @@
+C:\Users\Martin Ayón\Documents\SharpDevelop Projects\Libreria\bin\Debug\Libreria.exe.config
+C:\Users\Martin Ayón\Documents\SharpDevelop Projects\Libreria\bin\Debug\Libreria.exe
+C:\Users\Martin Ayón\Documents\SharpDevelop Projects\Libreria\bin\Debug\Libreria.pdb
+C:\Users\Martin Ayón\Documents\SharpDevelop Projects\Libreria\obj\Debug\Libreria.csprojResolveAssemblyReference.cache
+C:\Users\Martin Ayón\Documents\SharpDevelop Projects\Libreria\obj\Debug\Libreria.MainForm.resources
+C:\Users\Martin Ayón\Documents\SharpDevelop Projects\Libreria\obj\Debug\Libreria.csproj.GenerateResource.Cache
+C:\Users\Martin Ayón\Documents\SharpDevelop Projects\Libreria\obj\Debug\Libreria.exe
+C:\Users\Martin Ayón\Documents\SharpDevelop Projects\Libreria\obj\Debug\Libreria.pdb
+C:\Users\Martin\Documents\SharpDevelop Projects\Libreria\obj\Debug\Libreria.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\SharpDevelop Projects\Libreria\obj\Debug\Libreria.MainForm.resources
+C:\Users\Martin\Documents\SharpDevelop Projects\Libreria\obj\Debug\Libreria.csproj.GenerateResource.Cache
+C:\Users\Martin\Documents\SharpDevelop Projects\Libreria\obj\Debug\Libreria.exe
+C:\Users\Martin\Documents\SharpDevelop Projects\Libreria\obj\Debug\Libreria.pdb
+C:\Users\Martin\Documents\SharpDevelop Projects\Libreria\bin\Debug\Libreria.exe.config
+C:\Users\Martin\Documents\SharpDevelop Projects\Libreria\bin\Debug\Libreria.exe
+C:\Users\Martin\Documents\SharpDevelop Projects\Libreria\bin\Debug\Libreria.pdb
